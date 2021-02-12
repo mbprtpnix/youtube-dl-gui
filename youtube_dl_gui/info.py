@@ -14,10 +14,10 @@ __author__ = 'Sotiris Papadopoulos'
 __contact__ = 'ytubedlg@gmail.com'
 __projecturl__ = 'https://mrs0m30n3.github.io/youtube-dl-gui/'
 
-__appname__ = 'Youtube-DLG'
+__appname__ = 'YouTube-DLG'
 __license__ = 'UNLICENSE'
 
-__description__ = 'Youtube-dl GUI'
+__description__ = 'YouTube-dl GUI'
 
 __descriptionfull__ = '''A cross platform front-end GUI of the popular
 youtube-dl written in wxPython'''
